@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "CP_cb7b0f1d"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/rishabhverma/Desktop/CP",
+      "program": "/Users/rishabhverma/Desktop/CP/build/Debug/outDebug"
+    }
+  ]
+}
